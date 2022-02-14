@@ -1,0 +1,2 @@
+- Create a "how to get a local version going" 
+- https://insidestory.org.au/taper-trouble add this under unit 2 resources

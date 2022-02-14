@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Unit 1/Unit 1 Index.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Unit 1/Unit 1 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,15 @@
   },
   "active": "9ae5caabdee5ad22",
   "lastOpenFiles": [
+    "Unit 1/Unit 1 Index.md",
+    "Explainer of Anki and Spaced-Repetition Systems.md",
+    "What needs to be done.md",
+    "Untitled.md",
+    "Writings and Audio on Economics.md",
+    "obsidian.md",
     "index.md",
-    "Articles for Research Unit.md"
+    "Unit 1/Opportunity Cost, the Economic Problem, and Cost-Benefit Analysis.md",
+    "Unit 2/Fiscal, Monetary and Microeconoic Reforms.md",
+    "MicroeconoicRe.md"
   ]
 }
